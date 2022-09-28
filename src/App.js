@@ -51,8 +51,8 @@ function App() {
 
         <div>
           <img src = {hack}/>
-          <h5>The best club here at UCLA</h5>
-          <p>ACM hack is the on campus organization. I recommend everyone joins.</p>
+          <h5>The best UCLA club</h5>
+          <p>Here's everyone at HOTH 9. Hope everyone is looking forward to HOTH 10 this year!</p>
         </div>
 
         
